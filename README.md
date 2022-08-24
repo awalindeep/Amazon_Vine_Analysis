@@ -38,6 +38,7 @@ There were
 ![1](https://github.com/awalindeep/Amazon_Vine_Analysis/blob/AwalinGHMAIN/Graphics/1.png)
 
 ![2](https://github.com/awalindeep/Amazon_Vine_Analysis/blob/AwalinGHMAIN/Graphics/2.png)
+
 _Figure 1: Total Vine and non-Vine reviews._
 
 _**How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**_
@@ -50,6 +51,7 @@ There were
 ![3](https://github.com/awalindeep/Amazon_Vine_Analysis/blob/AwalinGHMAIN/Graphics/3.png)
 
 ![4](https://github.com/awalindeep/Amazon_Vine_Analysis/blob/AwalinGHMAIN/Graphics/4.png)
+
 _Figure 2: 5-star Vine and non-Vine reviews._
 
 _**What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**_
